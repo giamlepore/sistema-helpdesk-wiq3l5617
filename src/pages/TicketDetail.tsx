@@ -7,7 +7,7 @@ import { format } from 'date-fns'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Textarea } from '@/components/ui/textarea'
-import { StatusBadge, PriorityBadge } from '@/components/ui/TicketBadge'
+import { StatusBadge, PriorityBadge } from '@/components/TicketBadge'
 import {
   Select,
   SelectContent,

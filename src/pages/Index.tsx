@@ -25,7 +25,7 @@ import {
   Cell,
   ResponsiveContainer,
 } from 'recharts'
-import { StatusBadge, PriorityBadge } from '@/components/ui/TicketBadge'
+import { StatusBadge, PriorityBadge } from '@/components/TicketBadge'
 
 export default function Index() {
   const { user } = useAuth()

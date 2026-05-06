@@ -12,7 +12,7 @@ import {
   TableRow,
 } from '@/components/ui/table'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
-import { StatusBadge, PriorityBadge } from '@/components/ui/TicketBadge'
+import { StatusBadge, PriorityBadge } from '@/components/TicketBadge'
 import {
   Select,
   SelectContent,
